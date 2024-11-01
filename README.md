@@ -1,0 +1,1 @@
+# 1den-10a-kadar-sayilari-switch-yapisiyla-ekrana-yazdirma
